@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R 755 pwd
+chmod -R a+rX *
